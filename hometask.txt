@@ -1,2 +1,53 @@
 Файлы readme отличаются, так как в ветке мастер имеется коммит fix readme с номером df455a79
 В ветке master присутствует еще фраза: " with nice buttons on his jacket (buttons branch)"
+
+
+Commits on Jan 27, 2022
+
+    Добавил файл hometask.txt
+    @sirvonRIGOLCH4
+    sirvonRIGOLCH4 committed 1 minute ago
+
+Commits on Dec 2, 2021
+
+    Merge branch 'boots_buttons'
+    @sirvonRIGOLCH4
+    sirvonRIGOLCH4 committed on 2 Dec 2021
+
+Merge remote-tracking branch 'origin/hat'
+@sirvonRIGOLCH4
+sirvonRIGOLCH4 committed on 2 Dec 2021
+
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+@sirvonRIGOLCH4
+sirvonRIGOLCH4 committed on 2 Dec 2021
+
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+@sirvonRIGOLCH4
+sirvonRIGOLCH4 committed on 2 Dec 2021
+
+Commits on Jun 29, 2016
+
+    fix readme
+    @MobDev-Hobby
+    MobDev-Hobby committed on 29 Jun 2016
+
+dots
+@MobDev-Hobby
+MobDev-Hobby committed on 29 Jun 2016
+
+README added
+@MobDev-Hobby
+MobDev-Hobby committed on 29 Jun 2016
+
+boots
+@MobDev-Hobby
+MobDev-Hobby committed on 29 Jun 2016
+
+heat added
+@MobDev-Hobby
+MobDev-Hobby committed on 29 Jun 2016
+
+init
+@MobDev-Hobby
+MobDev-Hobby committed on 29 Jun 2016
